@@ -1,4 +1,4 @@
-class Sophy < Formula
+class SophyAlpha < Formula
     desc "A simple tool that prints 'Hello World'"
     homepage "https://github.com/SidhartK/sophy"
     url "https://github.com/SidhartK/sophy/archive/refs/tags/v0.1.0-alpha.tar.gz"
